@@ -40,9 +40,7 @@ h3 {
     margin: 20px 0;
 }
 
-
 section {
-    
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -88,13 +86,13 @@ img {
         font-size: 14px;
         margin: 5px 0;
     }
+    
     section {
         padding-left: 5%;
         padding-right: 5%;
     
     }
-
- 
+    
     img {
         max-width: 100%;
     }
